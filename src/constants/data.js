@@ -60,23 +60,23 @@ const awards = [
   {
     imgUrl: images.award02,
     title: 'Family Restsurant ',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Known for a cozy, welcoming space for families.',
 
   },
   {
     imgUrl: images.award01,
     title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Recognized for innovative cuisine and fresh ideas.',
   },
   {
     imgUrl: images.award05,
     title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Awarded for exceptional service and guest satisfaction.',
   },
   {
     imgUrl: images.award03,
     title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Honored for creativity and excellence in culinary arts.',
   },
 ];
 export default {drinks, cocktails, awards};
